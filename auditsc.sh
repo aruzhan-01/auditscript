@@ -1,1 +1,1 @@
-uname -a
+uname -a > uname.txt
